@@ -1,0 +1,38 @@
+_repo: Essays-on-the-Materialistic-Conception-of-History_32644
+_version: 0.1.0
+alternative_title: Saggi intorno alla concezione materialistica della storia. English
+contributor:
+  translator:
+    agent_name: Kerr, Charles H.
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '35958'
+    url: http://www.gutenberg.org/2009/agents/35958
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Labriola, Antonio
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '35957'
+    url: http://www.gutenberg.org/2009/agents/35957
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Labriola
+description: Vol. 1. In memory of the Communist Manifesto
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'Materialism'
+- !lcc 'HX'
+- !lcsh 'Marx, Karl, 1818-1883. Manifest der Kommunistischen Partei'
+- !lcsh 'Socialism'
+title: Essays on the Materialistic Conception of History
+url: http://www.gutenberg.org/ebooks/32644
