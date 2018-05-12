@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35957
     wikipedia: http://en.wikipedia.org/wiki/Antonio_Labriola
 description: Vol. 1. In memory of the Communist Manifesto
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32644#Essays-on-the-Materialistic-Conception-of-History
 gutenberg_issued: '2010-06-01'
 gutenberg_type: Text
 identifiers:
